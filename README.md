@@ -15,7 +15,7 @@ It is time to put what you have learned into practice and grow confidence by bui
 
 3. Create an external CSS file `mkdir css`, and `touch css/style.css`.
 
-4. Next, open your favorite code editor and make sure to include at the minimum the following things in your projects HTML & CSS page(s):
+4. Next in the text editor area of the IDE make sure to include at the minimum the following things in your projects HTML & CSS page(s):
   - link to your external stylesheet from the head section fo your html pages.
   - Apply selectors for class, id, and descendent selector
   - Try Styling text color and fonts.
